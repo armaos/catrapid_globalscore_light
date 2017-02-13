@@ -1,0 +1,1 @@
+# catrapid_globalscore_light
